@@ -1,4 +1,4 @@
-# In-Memory Retry Mechanism based on Rules Sample
+# In-Memory Retry Mechanism based on Rules
 
 This little sample aims to show how to apply some concepts:
 
