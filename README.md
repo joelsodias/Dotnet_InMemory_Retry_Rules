@@ -1,4 +1,4 @@
-# In-Memory Retry Mechanism based on Rules
+# In-Memory Retry Mechanism based on Rules and Queues
 
 This little sample aims to show how to apply some concepts:
 
